@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel 222
+                   {{App::environment()}}
                 </div>
 
                 <div class="links">
